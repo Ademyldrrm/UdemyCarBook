@@ -139,3 +139,5 @@ C:\Users\AdemYildirim\source\repos\UdemyCarBook\Presentation\UdemyCarBook.WepApi
 C:\Users\AdemYildirim\source\repos\UdemyCarBook\Presentation\UdemyCarBook.WepApi\obj\Debug\net8.0\UdemyCarBook.WepApi.genruntimeconfig.cache
 C:\Users\AdemYildirim\source\repos\UdemyCarBook\Presentation\UdemyCarBook.WepApi\obj\Debug\net8.0\ref\UdemyCarBook.WepApi.dll
 C:\Users\AdemYildirim\source\repos\UdemyCarBook\Presentation\UdemyCarBook.WepApi\obj\Debug\net8.0\UdemyCarBook.WepApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\AdemYildirim\source\repos\UdemyCarBook\Presentation\UdemyCarBook.WepApi\bin\Debug\net8.0\UdemyCarBook.Aplication.dll
+C:\Users\AdemYildirim\source\repos\UdemyCarBook\Presentation\UdemyCarBook.WepApi\bin\Debug\net8.0\UdemyCarBook.Aplication.pdb
