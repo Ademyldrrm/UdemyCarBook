@@ -60,5 +60,6 @@ namespace UdemyCarBook.WepApi.Controllers
             await _updateAboutCommandHandler.Handle(command);
             return Ok("Hakkımda Bilgisi Güncellendi");
         }
+        
     }
 }
