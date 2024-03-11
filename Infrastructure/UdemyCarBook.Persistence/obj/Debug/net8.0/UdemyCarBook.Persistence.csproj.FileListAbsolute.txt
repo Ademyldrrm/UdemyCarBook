@@ -15,6 +15,6 @@ C:\Users\AdemYildirim\source\repos\UdemyCarBook\Infrastructure\UdemyCarBook.Pers
 C:\Users\AdemYildirim\source\repos\UdemyCarBook\Infrastructure\UdemyCarBook.Persistence\obj\Debug\net8.0\ref\UdemyCarBook.Persistence.dll
 C:\Users\AdemYildirim\source\repos\UdemyCarBook\Infrastructure\UdemyCarBook.Persistence\bin\Debug\net8.0\UdemyCarBook.Domain.dll
 C:\Users\AdemYildirim\source\repos\UdemyCarBook\Infrastructure\UdemyCarBook.Persistence\bin\Debug\net8.0\UdemyCarBook.Domain.pdb
-C:\Users\AdemYildirim\source\repos\UdemyCarBook\Infrastructure\UdemyCarBook.Persistence\obj\Debug\net8.0\UdemyCarBook.Persistence.csproj.CopyComplete
 C:\Users\AdemYildirim\source\repos\UdemyCarBook\Infrastructure\UdemyCarBook.Persistence\bin\Debug\net8.0\UdemyCarBook.Aplication.dll
 C:\Users\AdemYildirim\source\repos\UdemyCarBook\Infrastructure\UdemyCarBook.Persistence\bin\Debug\net8.0\UdemyCarBook.Aplication.pdb
+C:\Users\AdemYildirim\source\repos\UdemyCarBook\Infrastructure\UdemyCarBook.Persistence\obj\Debug\net8.0\UdemyCar.F7B23CFF.Up2Date

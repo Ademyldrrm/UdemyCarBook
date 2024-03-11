@@ -132,7 +132,6 @@ C:\Users\AdemYildirim\source\repos\UdemyCarBook\Presentation\UdemyCarBook.WepApi
 C:\Users\AdemYildirim\source\repos\UdemyCarBook\Presentation\UdemyCarBook.WepApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.UdemyCarBook.WepApi.props
 C:\Users\AdemYildirim\source\repos\UdemyCarBook\Presentation\UdemyCarBook.WepApi\obj\Debug\net8.0\staticwebassets.pack.json
 C:\Users\AdemYildirim\source\repos\UdemyCarBook\Presentation\UdemyCarBook.WepApi\obj\Debug\net8.0\scopedcss\bundle\UdemyCarBook.WepApi.styles.css
-C:\Users\AdemYildirim\source\repos\UdemyCarBook\Presentation\UdemyCarBook.WepApi\obj\Debug\net8.0\UdemyCarBook.WepApi.csproj.CopyComplete
 C:\Users\AdemYildirim\source\repos\UdemyCarBook\Presentation\UdemyCarBook.WepApi\obj\Debug\net8.0\UdemyCarBook.WepApi.dll
 C:\Users\AdemYildirim\source\repos\UdemyCarBook\Presentation\UdemyCarBook.WepApi\obj\Debug\net8.0\refint\UdemyCarBook.WepApi.dll
 C:\Users\AdemYildirim\source\repos\UdemyCarBook\Presentation\UdemyCarBook.WepApi\obj\Debug\net8.0\UdemyCarBook.WepApi.pdb
@@ -141,3 +140,4 @@ C:\Users\AdemYildirim\source\repos\UdemyCarBook\Presentation\UdemyCarBook.WepApi
 C:\Users\AdemYildirim\source\repos\UdemyCarBook\Presentation\UdemyCarBook.WepApi\obj\Debug\net8.0\UdemyCarBook.WepApi.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\AdemYildirim\source\repos\UdemyCarBook\Presentation\UdemyCarBook.WepApi\bin\Debug\net8.0\UdemyCarBook.Aplication.dll
 C:\Users\AdemYildirim\source\repos\UdemyCarBook\Presentation\UdemyCarBook.WepApi\bin\Debug\net8.0\UdemyCarBook.Aplication.pdb
+C:\Users\AdemYildirim\source\repos\UdemyCarBook\Presentation\UdemyCarBook.WepApi\obj\Debug\net8.0\UdemyCar.E3B503DE.Up2Date

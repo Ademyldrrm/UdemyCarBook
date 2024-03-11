@@ -15,14 +15,16 @@ namespace UdemyCarBook.WepApi.Controllers
         private readonly RemoveCarCommandHandler _removeCarCommandHandler;
         private readonly GetCarqueryHandler _getCarqueryCommandHandler;
         private readonly GetCarByIdQueryHandler _getCarfindByIdQueryHandler;
+        private readonly GetCarWithBrandQueryHandler _getCarwithBrandQueryHandler;
 
-        public CarsController(CreateCarCommandHandler createCarCommandHandler, UpdateCarCommandHandler updateCarCommandHandler, RemoveCarCommandHandler removeCarCommandHandler, GetCarqueryHandler getCarqueryCommandHandler, GetCarByIdQueryHandler getCarfindByIdQueryHandler)
+        public CarsController(CreateCarCommandHandler createCarCommandHandler, UpdateCarCommandHandler updateCarCommandHandler, RemoveCarCommandHandler removeCarCommandHandler, GetCarqueryHandler getCarqueryCommandHandler, GetCarByIdQueryHandler getCarfindByIdQueryHandler, GetCarWithBrandQueryHandler getCarwithBrandQueryHandler)
         {
             _createCarCommandHandler = createCarCommandHandler;
             _updateCarCommandHandler = updateCarCommandHandler;
             _removeCarCommandHandler = removeCarCommandHandler;
             _getCarqueryCommandHandler = getCarqueryCommandHandler;
             _getCarfindByIdQueryHandler = getCarfindByIdQueryHandler;
+            _getCarwithBrandQueryHandler = getCarwithBrandQueryHandler;
         }
         [HttpGet]
         public async Task<IActionResult> CarList()
@@ -55,6 +57,12 @@ namespace UdemyCarBook.WepApi.Controllers
         {
             await _updateCarCommandHandler.Handle(command);
             return Ok("Araç Bilgisi Güncellendi");
+        }
+        [HttpGet("GetCarWithBrand")]
+        public IActionResult GetCarWithBrand()
+        {
+            var values= _getCarwithBrandQueryHandler.Handle();  
+            return Ok(values);
         }
     }
 }
