@@ -3,6 +3,7 @@ using UdemyCarBook.Aplication.Features.CQRS.Handlers.BannerHandlers;
 using UdemyCarBook.Aplication.Features.CQRS.Handlers.BrandHandlers;
 using UdemyCarBook.Aplication.Features.CQRS.Handlers.CarHandlers;
 using UdemyCarBook.Aplication.Features.CQRS.Handlers.CategoryHandlers;
+using UdemyCarBook.Aplication.Features.CQRS.Handlers.ContactHandlers;
 using UdemyCarBook.Aplication.Interfaces;
 using UdemyCarBook.Aplication.Interfaces.CarInterfaces;
 using UdemyCarBook.Persistence.Context;
@@ -49,6 +50,12 @@ builder.Services.AddScoped<GetCategoryByIdQueryHandler>();
 builder.Services.AddScoped<CreateCategoryCommandHandler>();
 builder.Services.AddScoped<UpdateCategoryCommandHandler>();
 builder.Services.AddScoped<RemoveCategoryCommandHandler>();
+
+builder.Services.AddScoped<GetContactQueryHandler>();
+builder.Services.AddScoped<GetContactByIdQueryHandler>();
+builder.Services.AddScoped<CreateContactCommandHandler>();
+builder.Services.AddScoped<UpdateContactCommandHandler>();
+builder.Services.AddScoped<RemoveContactCommandHandler>();
 
 
 
